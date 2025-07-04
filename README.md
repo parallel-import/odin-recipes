@@ -1,1 +1,2 @@
 # odin-recipes
+So, here I'm supposed to write a brief introduction about the HTML skills I've learned thus far. I suppose I've learned how to use GitHub to manage versions, how to locally organize my files, how to create a basic HTML webpage and modify it with headers, links, and images. Not much more to report here. And was writing code like this on Neopets when I was 11 years old. Oh, well.
